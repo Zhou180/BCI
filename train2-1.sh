@@ -1,5 +1,4 @@
-wandb login d7a852a8acf46e50c9ace763c15f3c75f6a794e9
-wandb enabled
+wandb disabled
 # nets=( EEGNet ShallowConvNet SCCNet TSception )
 nets=( ShallowConvNet SCCNet TSception )
 # subject_list=( S01 S02 S03 S04 S05 S06 S07 S08 S09 )
